@@ -1,0 +1,125 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "John Hardy Women Legends Chain Bracelet",
+        "price": 456,
+        "description": "From our Legends collection, the dragon has inspired this mythical water dragon that protects the ocean's pearl.",
+        "category": "Jewelry",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL",
+        "rating": {
+          "rate": 4.6,
+          "count": 400
+        }
+      },
+      {
+        "id": 2,
+        "title": "Levi's Men's 505 Regular Fit Jeans",
+        "price": 40,
+        "description": "The original zip fly, first created in 1967, the 505 Regular Fit Jeans are one of Levi's most popular straight fits.",
+        "category": "Men's Clothing",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL",
+        "rating": {
+          "rate": 4.5,
+          "count": 150
+        }
+      },
+      {
+        "id": 3,
+        "title": "WD 2TB Elements Portable External Hard Drive",
+        "price": 64,
+        "description": "Easily store and access 2TB of content on the go with the WD Elements Portable Hard Drive.",
+        "category": "Electronics",
+        "image": "https://fakestoreapi.com/img/61IBBVJvSDL",
+        "rating": {
+          "rate": 4.7,
+          "count": 1300
+        }
+      },
+      {
+        "id": 4,
+        "title": "SanDisk SSD PLUS 1TB Internal SSD",
+        "price": 109,
+        "description": "Easy upgrade for faster boot-up, shutdown, application load, and response.",
+        "category": "Electronics",
+        "image": "https://fakestoreapi.com/img/61U7T1koQqL",
+        "rating": {
+          "rate": 4.8,
+          "count": 740
+        }
+      },
+      {
+        "id": 5,
+        "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+        "price": 109,
+        "description": "3D NAND flash are applied to deliver high transfer speeds.",
+        "category": "Electronics",
+        "image": "https://fakestoreapi.com/img/71kWymZ+c+L",
+        "rating": {
+          "rate": 4.9,
+          "count": 1100
+        }
+      },
+      {
+        "id": 6,
+        "title": "Women's Midi Dress",
+        "price": 24,
+        "description": "Soft and stretchy, short-sleeve midi dress featuring a scoop-neck and swingy skirt.",
+        "category": "Women's Clothing",
+        "image": "https://fakestoreapi.com/img/51eg55uWmdL",
+        "rating": {
+          "rate": 4.7,
+          "count": 600
+        }
+      },
+      {
+        "id": 7,
+        "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin Zero Frame Monitor",
+        "price": 599,
+        "description": "21.5 inches Full HD (1920 x 1080) widescreen IPS display.",
+        "category": "Electronics",
+        "image": "https://fakestoreapi.com/img/81QpkIctqPL",
+        "rating": {
+          "rate": 4.6,
+          "count": 400
+        }
+      },
+      {
+        "id": 8,
+        "title": "Fjallraven - Foldsack No. 1 Backpack",
+        "price": 109,
+        "description": "Simple yet functional backpack made from durable, waxed fabric.",
+        "category": "Men's Clothing",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL",
+        "rating": {
+          "rate": 4.7,
+          "count": 500
+        }
+      },
+      {
+        "id": 9,
+        "title": "Mens Casual Premium Slim Fit T-Shirts ",
+        "price": 22,
+        "description": "Slim fit, short-sleeve shirt featuring crew-neckline and banded cuffs.",
+        "category": "Men's Clothing",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL",
+        "rating": {
+          "rate": 4.5,
+          "count": 220
+        }
+      },
+      {
+        "id": 10,
+        "title": "Gold & Diamond Dragonfly Pendant",
+        "price": 180,
+        "description": "Dragonfly pendant with diamonds, set in 14k yellow gold.",
+        "category": "Jewelry",
+        "image": "https://fakestoreapi.com/img/51Y5NI-I5jL",
+        "rating": {
+          "rate": 4.5,
+          "count": 400
+        }
+      }
+    ]
+  }
+  
